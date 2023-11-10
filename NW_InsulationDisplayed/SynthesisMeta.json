@@ -1,0 +1,13 @@
+{
+  "Nickname": "NW_InsulationDisplayed",
+  "Visibility": "Visible",
+  "OneLineDescription": "",
+  "LongDescription": "",
+  "PreferredAutoVersioning": "Default",
+  "RequiredMods": [
+    "Nuclear Winter.esp"
+  ],
+  "TargetedReleases": [
+    "Fallout4"
+  ]
+}
